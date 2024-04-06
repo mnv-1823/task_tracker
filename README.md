@@ -12,4 +12,5 @@ Run the Application:
 Finally, run the application using the flutter run command:  **flutter run**
 
 
-![image](https://github.com/mnv-1823/task_tracker/assets/159681661/66ba91d4-b775-47fc-8d1e-946bc2ab6467)
+![image](https://github.com/mnv-1823/task_tracker/assets/159681661/5ae9263f-0901-469c-a653-e4c7c2ee9376)
+
