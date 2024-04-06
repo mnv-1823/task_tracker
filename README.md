@@ -1,16 +1,12 @@
 # task_tracker
 
-A new Flutter project.
+The Task Tracker is a user-friendly application designed to streamline task management. With its intuitive interface, users can effortlessly create, edit, and delete tasks, each equipped with a title, description, and status indicator for easy tracking. The app offers persistent storage using SharedPreferences, ensuring tasks are saved between sessions. Users can enjoy the convenience of dark mode support and swipe-to-delete functionality, enhancing usability and efficiency. With its responsive design and minimalist approach, the Task Tracker provides a simple yet effective solution for organizing daily tasks and activities, empowering users to stay focused and productive.
 
-## Getting Started
+Install Dependencies:
+Run **flutter pub get** to install the dependencies specified in the pubspec.yaml file:
 
-This project is a starting point for a Flutter application.
+Connect Device or Start Emulator:
+Connect your physical device via USB or start an emulator using Android Studio or VS Code.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the Application:
+Finally, run the application using the flutter run command:  **flutter run**
