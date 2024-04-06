@@ -10,3 +10,6 @@ Run **flutter pub get** to install the dependencies specified in the pubspec.yam
 
 Run the Application:
 Finally, run the application using the flutter run command:  **flutter run**
+
+
+![image](https://github.com/mnv-1823/task_tracker/assets/159681661/66ba91d4-b775-47fc-8d1e-946bc2ab6467)
